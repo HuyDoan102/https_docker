@@ -1,0 +1,4 @@
+/logs/supervisor/*
+/logs/web/*
+/.idea
+.env

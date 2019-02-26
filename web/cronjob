@@ -1,0 +1,1 @@
+* * * * * php /var/www/html/sales_pos_core/artisan schedule:run 2&>1 /var/www/html/sales_pos_docker/logs/cronjob/sales_pos_core.log
