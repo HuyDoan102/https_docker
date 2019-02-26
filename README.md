@@ -74,6 +74,7 @@ $ php artisan db:seed --class=StoreTableSeeder
 
 ### 7. Access to web to check
 ```
+Register Account and login to Home to view result
 Access browse link: httpsdemo.com:8000
 >>> auto redirect https://httpsdemo.com
 ```
